@@ -1,2 +1,2 @@
 # TurnRPG
- A turn-based rpg developed by me and my friends.
+Um RPG de turno baseado no universo steampunk, criado junto com amigos que está sendo desenvolvido em python.
